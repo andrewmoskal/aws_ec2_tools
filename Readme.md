@@ -1,0 +1,6 @@
+<h1>AWS EC2 instances</h1>
+<h3>To use app.py you need AWS API credentials before</h3>
+
+export AWS_ACCESS_KEY_ID=...
+
+export AWS_SECRET_ACCESS_KEY=...
